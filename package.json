@@ -1,6 +1,6 @@
 {
-  "name": "magnify",
-  "version": "2.3.3",
+  "name": "magnify2",
+  "version": "2.3.4",
   "description": "A lightweight jQuery magnifying glass zoom plugin.",
   "keywords": [
     "jquery-plugin",
@@ -11,7 +11,7 @@
   ],
   "homepage": "https://thdoan.github.io/magnify/",
   "bugs": {
-    "url": "https://github.com/thdoan/magnify/issues"
+    "url": "https://github.com/MohamedAlaa/magnify/issues"
   },
   "license": "MIT",
   "author": "T. H. Doan <thdoan@gmail.com> (http://www.tohodo.com)",
@@ -21,6 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thdoan/magnify.git"
+    "url": "https://github.com/MohamedAlaa/magnify.git"
   }
 }

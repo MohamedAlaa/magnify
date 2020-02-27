@@ -91,8 +91,8 @@
                 'y': nPosY
               });
             } else {
-              nPosX = $image.data('lastPos').x;
-              nPosY = $image.data('lastPos').y;
+              nPosX = $image.offset().left;
+              nPosY = $image.offset().top;
             }
             // x/y coordinates of the mouse pointer or touch point. This is the position of
             // .magnify relative to the document.
